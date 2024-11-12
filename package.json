@@ -1,9 +1,9 @@
 {
+  "homepage": "https://yassine-ahmed.github.io/safagabbouj",
   "name": "portfolio-site",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-"homepage": "https://safagabbouja.github.io/mon-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
